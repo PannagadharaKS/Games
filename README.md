@@ -1,4 +1,4 @@
-# GAMES
+<p align='center' >GAMES</p>
 
 <p align='center' >All the Developed Games either by Practicing / by Passion in one place! </p>
 
