@@ -1,0 +1,12 @@
+=================== CANVAS ===================
+
+.getContext("2d/3d");
+    - INITIALIZE CONTEXT
+.fillRect(x, y, width, height);
+    - FILLS A RECTANGLE
+.fillStyle
+    - STYLES CONTEXT
+.clearRect(x, y, width, height)
+    - CLEARS RECTANGLE
+.drawImage(image, x, y, width, height, ...)
+    - DRAWS AN IMAGE OVER A CANVAS
